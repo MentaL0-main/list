@@ -2,7 +2,7 @@
 
 This is an implementation of a data structure "doubly linked list" in C with pointers. The project includes basic operations such as insertion, deletion, and printing of list elements.
 
-![Double linked list scheme](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.alphacodingskills.com%2Fds%2Fdoubly-linked-list.php&ved=0CBYQjRxqFwoTCMDvxaOq8pIDFQAAAAAdAAAAABAI&opi=89978449)
+![Double linked list scheme]([https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.alphacodingskills.com%2Fds%2Fdoubly-linked-list.php&ved=0CBYQjRxqFwoTCMDvxaOq8pIDFQAAAAAdAAAAABAI&opi=89978449](https://data-flair.training/blogs/wp-content/uploads/sites/2/2021/05/Doubly-linked-list-normal-img01.jpg))
 
 ## Files
 
