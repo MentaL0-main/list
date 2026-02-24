@@ -1,6 +1,8 @@
 # Doubly Linked List in C
 
-This is an implementation of a data structure "doubly linked list" in C. The project includes basic operations such as insertion, deletion, and printing of list elements.
+This is an implementation of a data structure "doubly linked list" in C with pointers. The project includes basic operations such as insertion, deletion, and printing of list elements.
+
+![Double linked list scheme](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.alphacodingskills.com%2Fds%2Fdoubly-linked-list.php&ved=0CBYQjRxqFwoTCMDvxaOq8pIDFQAAAAAdAAAAABAI&opi=89978449)
 
 ## Files
 
@@ -18,7 +20,9 @@ gcc main.c list.c -o example
 
 ## Execution
 After compiling, run the program with:
+```bash
 ./example
+```
 
 ## Operations
 - Inserting an element at the beginning of the list 
@@ -28,4 +32,4 @@ After compiling, run the program with:
 - Freeing memory
 
 ## License
-```This project is licensed under the MIT License.```
+This project is licensed under the **MIT License**.
